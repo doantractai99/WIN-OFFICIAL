@@ -4,6 +4,7 @@ MAS TOOL
 
 Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
 Rất hay, các bạn ạ!
+
 MAS TOOL chạy trực tiếp trên PowerShell xem video
 Bấm nút Windows + R rồi gõ vào PowerShell rồi enter
 image
