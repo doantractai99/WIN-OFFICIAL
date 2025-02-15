@@ -11,15 +11,14 @@ MAS TOOL chạy trực tiếp trên PowerShell
 image
 - Dán vào câu lệnh: CD C:\Windows\System32 rồi enter
 
-+ Hoặc: Chạy Windows PowerShell bằng quyền Run as Administrator
-Dán 1 trong 3 câu lệnh sau rồi bấm enter:
-
-- irm https://raw.githubusercontent.com/BsNgChiThanh/MAS-TOOL/IMP/MAS.ps1 | iex
+-- Hoặc: Chạy Windows PowerShell bằng quyền Run as Administrator
+Dán 1 trong 2 câu lệnh sau rồi bấm enter:
 
 - irm https://massgrave.dev/get | iex
 
 - irm https://get.activated.win | iex
-OK!
+ 
+--OK!
 
 Hãy chọn lựa theo yêu cầu của bạn!
 
