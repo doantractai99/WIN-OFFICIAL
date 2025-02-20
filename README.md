@@ -1,9 +1,11 @@
 MAS TOOL
 
-![anh-ha-noi](https://github.com/user-attachments/assets/6a6d7337-4c9f-44d0-9553-eb91a6b1b366)
+- ![1](https://github.com/user-attachments/assets/6807685c-779f-4188-b63e-420ae8b0877f) - ![2](https://github.com/user-attachments/assets/9a3b95b3-addc-4579-8e95-00aa56e3e831)
 
-Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
-Rất hay, các bạn ạ!
+
+
+- Giới thiệu: https://massgrave.dev/index.html#Activations_Summary
+- Rất hay, các bạn ạ!
 
 MAS TOOL chạy trực tiếp trên PowerShell 
 
